@@ -1,0 +1,107 @@
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\cpooo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\cpooo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\cpooo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\cpooo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog1.resources
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Julka\Pulpit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog2.resources
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog1.resources
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog2.resources
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ola\Downloads\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog1.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog2.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog4.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog1.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog2.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\WindowsApplication1_KON-pozniej\WindowsApplication1_KON\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog1.resources
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog2.resources
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ola\Desktop\CPO - OK\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Ola\Desktop\Aplikacja CPO spr1\CPO - OK\WindowsApplication1_KON\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ola\Desktop\Aplikacja CPO spr1\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\Aplikacja CPO spr1\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\Aplikacja CPO spr1\CPO - OK\WindowsApplication1_KON\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ola\Desktop\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog1.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog2.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ola\Desktop\dokumenty\GiK\Studia magisterskie\Semestr II\CPO\A.Knapik, J.Musiał- spr.1 CPO\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
